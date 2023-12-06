@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
@@ -18,6 +18,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4-1", "Day4-1\Day4-1.csproj", "{50BAFBB5-A57D-493F-988B-00639294DE8C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4-2", "Day4-2\Day4-2.csproj", "{08A69071-6E0C-42FF-9BAF-43822AB55271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5-1", "Day5-1\Day5-1.csproj", "{86BE94EE-2DC6-4B21-BD52-CBB5BC0FBB9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -60,5 +62,9 @@ Global
 		{08A69071-6E0C-42FF-9BAF-43822AB55271}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08A69071-6E0C-42FF-9BAF-43822AB55271}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08A69071-6E0C-42FF-9BAF-43822AB55271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86BE94EE-2DC6-4B21-BD52-CBB5BC0FBB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BE94EE-2DC6-4B21-BD52-CBB5BC0FBB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BE94EE-2DC6-4B21-BD52-CBB5BC0FBB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BE94EE-2DC6-4B21-BD52-CBB5BC0FBB9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
