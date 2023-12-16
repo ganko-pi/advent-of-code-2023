@@ -1,4 +1,4 @@
-using Day9_1;
+using Day9_2;
 
 public class Program
 {
